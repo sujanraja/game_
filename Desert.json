@@ -24,11 +24,6 @@
       "type": "Collective",
       "sentence": "The jury reached a unanimous verdict.",
       "containsHeilted": "jury"
-    },
-    {
-      "type": "Abstract",
-      "sentence": "Love can be complicated.",
-      "containsHeilted": "Love"
     }
   ]
 }
