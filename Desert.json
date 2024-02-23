@@ -1,0 +1,74 @@
+{
+  "sentences": [
+    {
+      "type": "Common",
+      "sentence": "The cat slept peacefully.",
+      "containsHeilted": "cat"
+    },
+    {
+      "type": "Proper",
+      "sentence": "Jennifer went to Paris last summer.",
+      "containsHeilted": "Jennifer"
+    },
+    {
+      "type": "Abstract",
+      "sentence": "Honesty is the best policy.",
+      "containsHeilted": "Honesty"
+    },
+    {
+      "type": "Collective",
+      "sentence": "A flock of birds flew over the lake.",
+      "containsHeilted": "flock of birds"
+    },
+    {
+      "type": "Collective",
+      "sentence": "The jury reached a unanimous verdict.",
+      "containsHeilted": "jury"
+    },
+    {
+      "type": "Abstract",
+      "sentence": "Love can be complicated.",
+      "containsHeilted": "Love"
+    },
+    {
+      "type": "Common",
+      "sentence": "We walked through the forest at dawn.",
+      "containsHeilted": "forest"
+    },
+    {
+      "type": "Proper",
+      "sentence": "The Himalayas are breathtaking.",
+      "containsHeilted": "The Himalayas"
+    },
+    {
+      "type": "Abstract",
+      "sentence": "He showed great bravery.",
+      "containsHeilted": "bravery"
+    },
+    {
+      "type": "Abstract",
+      "sentence": "Wisdom comes with experience.",
+      "containsHeilted": "Wisdom"
+    },
+    {
+      "type": "Collective",
+      "sentence": "A team of experts will review the project.",
+      "containsHeilted": "team"
+    },
+    {
+      "type": "Proper",
+      "sentence": "The Nile is the longest river in Africa.",
+      "containsHeilted": "The Nile"
+    },
+    {
+      "type": "Abstract",
+      "sentence": "Her kindness was appreciated by everyone.",
+      "containsHeilted": "kindness"
+    },
+    {
+      "type": "Collective",
+      "sentence": "A herd of cows grazed in the field.",
+      "containsHeilted": "herd of cows"
+    }
+  ]
+}
